@@ -1,6 +1,6 @@
 # What?
 
-Servers for Titanfall 1
+Cool custom servers for Titanfall 1
 
 # Bear
 
