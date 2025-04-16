@@ -3,7 +3,7 @@
 Custom Servers Mod for Titanfall 1
 
 # Download
-Get it at the [releases](https://github.com/r1delta/r1delta/releases/) page or download the [installer](https://github.com/r1delta/r1delta_installer/releases). You can read instructions on how to install the project [here](https://github.com/r1delta/r1delta?tab=readme-ov-file#instructions).
+Get it at the [releases](https://github.com/r1delta/r1delta/releases/) page or download the [installer](https://github.com/r1delta/r1delta/releases/latest). You can read instructions on how to install the project [here](https://github.com/r1delta/r1delta?tab=readme-ov-file#instructions).
 
 # Discord
 
