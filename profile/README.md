@@ -1,15 +1,11 @@
-# What?
-
-Custom Servers Mod for Titanfall 1
+# R1Delta
+An open source, custom server framework for Titanfall 1 that allows hosting dedicated servers and loading mods.
 
 # Download
-Get it at the [releases](https://github.com/r1delta/r1delta/releases/) page or download the [installer](https://github.com/r1delta/r1delta/releases/latest). You can read instructions on how to install the project [here](https://github.com/r1delta/r1delta?tab=readme-ov-file#instructions).
+To get started, download the [installer](https://github.com/r1delta/r1delta/releases/latest). 
 
-# Discord
-
-[discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7) [discord](https://discord.gg/zbFCcSM5t7)
+If need guidance on how to install, or if you want to build the project yourself take a look [here](https://github.com/r1delta/r1delta?tab=readme-ov-file#instructions).
 
 
-# Bear
-
-![bear](https://github.com/r1delta/r1delta/assets/37985788/41548f20-0878-4e1e-8538-e9be808fc363)
+# Community
+Join our [Discord](https://discord.r1delta.net) if you've got any questions, for LFG etc
