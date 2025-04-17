@@ -8,4 +8,4 @@ If need guidance on how to install, or if you want to build the project yourself
 
 
 # Community
-Join our [Discord](https://discord.r1delta.net) if you've got any questions, for LFG etc
+Join our [Discord](https://discord.r1delta.net) if you've got any questions or for LFG, etc
